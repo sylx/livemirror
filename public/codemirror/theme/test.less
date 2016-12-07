@@ -1,0 +1,110 @@
+.animation-fire(@name,@color){
+
+    @color1: spin(@color,28);
+    @color2: spin(@color,20);
+    @color3: spin(@color,8);
+    @color4: spin(@color,-8);
+    @color5: spin(@color,-12);
+
+    .animation-fire-shadow1(){
+        text-shadow: 
+        0 -0.05em 0.2em #fff,
+        0.01em -0.02em 0.15em @color1,
+        0.01em -0.05em 0.15em @color2,
+        0.02em -0.15em 0.2em @color3,
+        0.04em -0.20em 0.3em @color, 
+        0.05em -0.25em 0.4em @color,
+        0.06em -0.2em 0.9em @color4,
+        0.1em -0.1em 1.0em @color5;
+    }
+
+    .animation-fire-shadow2(){
+        text-shadow:
+        0 -0.05em 0.2em #fff, 
+        0 -0.05em 0.17em @color1,
+        0.04em -0.12em 0.22em @color2,
+        0.04em -0.13em 0.27em @color,
+        0.05em -0.23em 0.33em @color,
+        0.07em -0.28em 0.47em @color3,
+        0.1em -0.3em 0.8em @color4,
+        0.1em -0.3em 0.9em @color5;
+    }
+    
+    .animation-fire-shadow3(){
+        text-shadow: 
+        0 -0.05em 0.2em #fff,
+        0 -0.06em 0.18em @color1,
+        0.05em -0.15em 0.23em @color2,
+        0.05em -0.15em 0.3em @color,
+        0.07em -0.25em 0.4em @color,
+        0.09em -0.3em 0.5em @color3,
+        0.1em -0.3em 0.9em @color4,
+        0.1em -0.3em 1.0em @color5;
+    }
+
+    .animation-fire-keyframes (@name, @vendor:"", @bind:""){
+        @keyf: ~"@{bind}@@{vendor}keyframes fr-@{name} { `'\n'` 0%";
+        @{keyf} {
+            .animation-fire-shadow1();
+        }
+        25% {
+            .animation-fire-shadow2();
+        }
+        50% {
+            .animation-fire-shadow1();
+        }
+        75% {
+            .animation-fire-shadow3();
+        }
+        100% {
+            .animation-fire-shadow1();
+        }
+    }
+
+    @bind: "} `'\n'`";
+    .animation-fire-keyframes(@name, "-moz-");
+    .animation-fire-keyframes(@name, "-webkit-", @bind);
+    .animation-fire-keyframes(@name, "-ms-", @bind);
+    .animation-fire-keyframes(@name, "",@bind);
+
+    @terminate: ~"} `'\n'` .@{name} `'\n'`";
+    @frname: ~"fr-@{name}";
+    @{terminate} {
+        -moz-animation: @frname 0.8s infinite alternate;
+        -webkit-animation: @frname 0.8s infinite alternate;;
+        -ms-animation: @frname 0.8s infinite alternate;;
+        animation: @frname 0.8s infinite alternate;;
+    }
+}
+
+.animation (...) {
+    -webkit-animation: @arguments;
+    -moz-animation: @arguments;
+    animation: @arguments;
+}
+
+.chunk_always_fire(@name,@color){
+    @animation-name: "animation-fire-@{name}";
+    @animation-frame-name: "fr-animation-fire-@{name}";
+    .animation-fire(@animation-name,@color);
+    .cm-s-mid-school2 @{name} {
+        color: @color;
+        .animation(@animation-frame-name 0.8s infinite alternate);
+    }
+}
+.chunk_activeline_fire(@name,@color){
+    @animation-name: "animation-fire-@{name}";
+    @animation-frame-name: "fr-animation-fire-@{name}";
+    .animation-fire(@animation-name,@color);
+    .cm-s-mid-school2 @{name} {
+        color: @color;
+    }
+    .cm-s-mid-school2 .CodeMirror-activeline @{name}{
+        .animation(@animation-frame-name 0.8s infinite alternate);
+    }
+}
+
+//.chunk_always_fire(cm-tag,#ffbd40);
+.chunk_activeline_fire(cm-tag,#ffbd40);
+
+

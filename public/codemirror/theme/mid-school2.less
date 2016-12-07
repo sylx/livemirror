@@ -1,0 +1,164 @@
+.animation (...) {
+    -webkit-animation: @arguments;
+    -moz-animation: @arguments;
+    animation: @arguments;
+}
+.animation-glow(@name,@color){
+
+    @color0: lighten(@color, 30%);
+    @color1: spin(@color,28);
+    @color2: spin(@color,20);
+    @color3: spin(@color,8);
+    @color4: spin(@color,-8);
+    @color5: spin(@color,-12);
+
+    .animation-glow-glow(){
+        text-shadow: 
+        0 -0.05em 0.2em @color0,
+        0.01em -0.02em 0.15em @color1,
+        0.01em -0.05em 0.15em @color2,
+        0.02em -0.15em 0.2em @color3,
+        0.04em -0.20em 0.3em @color, 
+        0.05em -0.25em 0.4em @color,
+        0.06em -0.2em 0.9em @color4,
+        0.1em -0.1em 1.0em @color5;
+    }
+    .animation-glow-none(){
+        text-shadow: 
+        0 -0em 0em @color0,
+        0 -0em 0em @color1,
+        0em 0em 0em @color2,
+        0em 0em 0em @color,
+        0em 0em 0em @color,
+        0em 0em 0em @color3,
+        0em 0em 0em @color4,
+        0em 0m 0em @color5;
+    }
+
+    .animation-glow-keyframes (@name, @vendor:"", @bind:""){
+        @keyf: ~"@{bind}@@{vendor}keyframes fr-@{name} { `'\n'` 0%";
+        @{keyf} {
+            .animation-glow-glow();
+        }
+        100% {
+            .animation-glow-none();
+        }
+    }
+
+    @bind: "} `'\n'`";
+    .animation-glow-keyframes(@name, "-moz-");
+    .animation-glow-keyframes(@name, "-webkit-", @bind);
+    .animation-glow-keyframes(@name, "",@bind);
+    @terminate: ~"} `'\n'` .@{name} `'\n'`";
+    @frname: ~"fr-@{name}";
+    @{terminate} {
+        -moz-animation: @frname 0.8s 1 alternate;
+        -webkit-animation: @frname 0.8s 1 alternate;
+        animation: @frname 0.8s 1 alternate;
+    }
+}
+
+
+.chunk(@name,@color){
+    @animation-name: ~"animation-glow-@{name}";
+    @animation-keyframes-name: ~"fr-animation-glow-@{name}";
+    .animation-glow(@animation-name,@color);
+    .cm-s-mid-school2 span.@{name} {
+        color: @color;
+    }
+    .cm-s-mid-school2 .CodeMirror-activeline span.@{name}{
+        .animation(@animation-keyframes-name 1s 1 linear alternate);
+    }
+    .cm-s-mid-school2 .CodeMirror-inactiveline span.@{name}{
+        .animation(@animation-keyframes-name 1s 1 alternate);
+    }
+
+    .cm-s-mid-school2 .CodeMirror-selectedline span.@{name}{
+        .animation(@animation-keyframes-name 1s 1 linear alternate);
+    }
+
+}
+
+//.cm-s-xq-dark span\.\([^{ ]+\) {color: \([^;]+\).+;}
+.chunk(cm-keyword,#FFBD40);
+.chunk(cm-property,#FFBD40);
+.chunk(cm-atom,#6C8CD5);
+.chunk(cm-number,lighten(#164,20%));
+.chunk(cm-def,#FFF);
+.chunk(cm-operator,#FFF);
+.chunk(cm-variable,#FF3);
+.chunk(cm-variable-2,#EE3);
+.chunk(cm-variable-3,#DD3);
+.chunk(cm-comment,#999);
+.chunk(cm-string,#9FEE00);
+.chunk(cm-string-2,#9FEE00);
+.chunk(cm-meta,#ff0);
+.chunk(cm-qualifier,#FFF700);
+.chunk(cm-builtin,lighten(#30a,50%));
+.chunk(cm-bracket,#cc7);
+.chunk(cm-tag,#FFBD40);
+.chunk(cm-attribute,#FFF700);
+.chunk(cm-error,#f00);
+
+.animation-glow(animation-glow-red,#f70);
+
+@font-face {
+  font-family: pixel;
+  src: url('../../css/PixelMplus12-Regular.ttf') format("truetype");
+}
+
+.cm-s-mid-school2 {
+    &.CodeMirror { 
+        font-family: pixel ! important;
+        line-height: 120% ! important;
+        font-size: 24px;
+
+        background: #0a001f;
+        color: #f8f8f8;
+    }
+    .CodeMirror-cursor { border-left: 0.5em solid white ! important; }
+    .CodeMirror-activeline,.CodeMirror-measure{
+        pre {
+            text-wrap: unrestricted;          
+            span {
+                font-size: 150%;
+                line-height: 100%;
+            }
+            span.cm-indent{
+                font-size: 100%;
+            }
+        }
+        span.cm-text{
+            .animation(fr-animation-glow-red 1s 1 linear alternate);
+        }
+    }
+    .CodeMirror-selectedline{
+        pre {
+            span {
+                font-size: 150%;
+                line-height: 100%;
+            }
+            span.cm-indent{
+                font-size: 50%;
+            }
+        }
+        .CodeMirror-selectedtext{
+            .animation(fr-animation-glow-red 1s 1 alternate);
+        }
+    }
+
+    .CodeMirror-appeared .CodeMirror-selectedtext{
+        .animation(fr-animation-glow-red 1s 1 alternate);
+    }
+
+    .CodeMirror-selected{
+        background: #27007A ! important;
+    }
+    .CodeMirror-gutters { background: #0a001f; border-right: 1px solid #aaa; }
+    .CodeMirror-linenumber { color: #ccc; }
+
+
+    .CodeMirror-activeline-background {background: #27282E ! important;}
+    .CodeMirror-matchingbracket {outline:1px solid grey; color:white !important;}
+}
+

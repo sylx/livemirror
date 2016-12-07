@@ -1,0 +1,1009 @@
+@-moz-keyframes fr-animation-glow-cm-keyword { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-keyword { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+@keyframes fr-animation-glow-cm-keyword { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+ .animation-glow-cm-keyword 
+ {
+  -moz-animation: fr-animation-glow-cm-keyword 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-keyword 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-keyword 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-keyword {
+  color: #ffbd40;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-keyword {
+  -webkit-animation: fr-animation-glow-cm-keyword 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-keyword 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-keyword 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-keyword {
+  -webkit-animation: fr-animation-glow-cm-keyword 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-keyword 1s 1 alternate;
+  animation: fr-animation-glow-cm-keyword 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-keyword {
+  -webkit-animation: fr-animation-glow-cm-keyword 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-keyword 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-keyword 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-property { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-property { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+@keyframes fr-animation-glow-cm-property { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+ .animation-glow-cm-property 
+ {
+  -moz-animation: fr-animation-glow-cm-property 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-property 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-property 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-property {
+  color: #ffbd40;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-property {
+  -webkit-animation: fr-animation-glow-cm-property 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-property 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-property 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-property {
+  -webkit-animation: fr-animation-glow-cm-property 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-property 1s 1 alternate;
+  animation: fr-animation-glow-cm-property 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-property {
+  -webkit-animation: fr-animation-glow-cm-property 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-property 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-property 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-atom { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #e3e9f7, 0.01em -0.02em 0.15em #7d6cd5, 0.01em -0.05em 0.15em #6f6cd5, 0.02em -0.15em 0.2em #6c7ed5, 0.04em -0.2em 0.3em #6c8cd5, 0.05em -0.25em 0.4em #6c8cd5, 0.06em -0.2em 0.9em #6c9ad5, 0.1em -0.1em 1em #6ca1d5;
+}
+100% {
+  text-shadow: 0 0em 0em #e3e9f7, 0 0em 0em #7d6cd5, 0em 0em 0em #6f6cd5, 0em 0em 0em #6c8cd5, 0em 0em 0em #6c8cd5, 0em 0em 0em #6c7ed5, 0em 0em 0em #6c9ad5, 0em 0m 0em #6ca1d5;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-atom { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #e3e9f7, 0.01em -0.02em 0.15em #7d6cd5, 0.01em -0.05em 0.15em #6f6cd5, 0.02em -0.15em 0.2em #6c7ed5, 0.04em -0.2em 0.3em #6c8cd5, 0.05em -0.25em 0.4em #6c8cd5, 0.06em -0.2em 0.9em #6c9ad5, 0.1em -0.1em 1em #6ca1d5;
+}
+100% {
+  text-shadow: 0 0em 0em #e3e9f7, 0 0em 0em #7d6cd5, 0em 0em 0em #6f6cd5, 0em 0em 0em #6c8cd5, 0em 0em 0em #6c8cd5, 0em 0em 0em #6c7ed5, 0em 0em 0em #6c9ad5, 0em 0m 0em #6ca1d5;
+}
+} 
+@keyframes fr-animation-glow-cm-atom { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #e3e9f7, 0.01em -0.02em 0.15em #7d6cd5, 0.01em -0.05em 0.15em #6f6cd5, 0.02em -0.15em 0.2em #6c7ed5, 0.04em -0.2em 0.3em #6c8cd5, 0.05em -0.25em 0.4em #6c8cd5, 0.06em -0.2em 0.9em #6c9ad5, 0.1em -0.1em 1em #6ca1d5;
+}
+100% {
+  text-shadow: 0 0em 0em #e3e9f7, 0 0em 0em #7d6cd5, 0em 0em 0em #6f6cd5, 0em 0em 0em #6c8cd5, 0em 0em 0em #6c8cd5, 0em 0em 0em #6c7ed5, 0em 0em 0em #6c9ad5, 0em 0m 0em #6ca1d5;
+}
+} 
+ .animation-glow-cm-atom 
+ {
+  -moz-animation: fr-animation-glow-cm-atom 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-atom 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-atom 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-atom {
+  color: #6c8cd5;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-atom {
+  -webkit-animation: fr-animation-glow-cm-atom 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-atom 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-atom 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-atom {
+  -webkit-animation: fr-animation-glow-cm-atom 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-atom 1s 1 alternate;
+  animation: fr-animation-glow-cm-atom 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-atom {
+  -webkit-animation: fr-animation-glow-cm-atom 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-atom 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-atom 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-number { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #8aecc5, 0.01em -0.02em 0.15em #20b3bd, 0.01em -0.05em 0.15em #20bdb3, 0.02em -0.15em 0.2em #20bd93, 0.04em -0.2em 0.3em #20bd7e, 0.05em -0.25em 0.4em #20bd7e, 0.06em -0.2em 0.9em #20bd69, 0.1em -0.1em 1em #20bd5f;
+}
+100% {
+  text-shadow: 0 0em 0em #8aecc5, 0 0em 0em #20b3bd, 0em 0em 0em #20bdb3, 0em 0em 0em #20bd7e, 0em 0em 0em #20bd7e, 0em 0em 0em #20bd93, 0em 0em 0em #20bd69, 0em 0m 0em #20bd5f;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-number { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #8aecc5, 0.01em -0.02em 0.15em #20b3bd, 0.01em -0.05em 0.15em #20bdb3, 0.02em -0.15em 0.2em #20bd93, 0.04em -0.2em 0.3em #20bd7e, 0.05em -0.25em 0.4em #20bd7e, 0.06em -0.2em 0.9em #20bd69, 0.1em -0.1em 1em #20bd5f;
+}
+100% {
+  text-shadow: 0 0em 0em #8aecc5, 0 0em 0em #20b3bd, 0em 0em 0em #20bdb3, 0em 0em 0em #20bd7e, 0em 0em 0em #20bd7e, 0em 0em 0em #20bd93, 0em 0em 0em #20bd69, 0em 0m 0em #20bd5f;
+}
+} 
+@keyframes fr-animation-glow-cm-number { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #8aecc5, 0.01em -0.02em 0.15em #20b3bd, 0.01em -0.05em 0.15em #20bdb3, 0.02em -0.15em 0.2em #20bd93, 0.04em -0.2em 0.3em #20bd7e, 0.05em -0.25em 0.4em #20bd7e, 0.06em -0.2em 0.9em #20bd69, 0.1em -0.1em 1em #20bd5f;
+}
+100% {
+  text-shadow: 0 0em 0em #8aecc5, 0 0em 0em #20b3bd, 0em 0em 0em #20bdb3, 0em 0em 0em #20bd7e, 0em 0em 0em #20bd7e, 0em 0em 0em #20bd93, 0em 0em 0em #20bd69, 0em 0m 0em #20bd5f;
+}
+} 
+ .animation-glow-cm-number 
+ {
+  -moz-animation: fr-animation-glow-cm-number 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-number 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-number 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-number {
+  color: #20bd7e;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-number {
+  -webkit-animation: fr-animation-glow-cm-number 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-number 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-number 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-number {
+  -webkit-animation: fr-animation-glow-cm-number 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-number 1s 1 alternate;
+  animation: fr-animation-glow-cm-number 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-number {
+  -webkit-animation: fr-animation-glow-cm-number 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-number 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-number 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-def { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ffffff, 0.01em -0.05em 0.15em #ffffff, 0.02em -0.15em 0.2em #ffffff, 0.04em -0.2em 0.3em #ffffff, 0.05em -0.25em 0.4em #ffffff, 0.06em -0.2em 0.9em #ffffff, 0.1em -0.1em 1em #ffffff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0m 0em #ffffff;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-def { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ffffff, 0.01em -0.05em 0.15em #ffffff, 0.02em -0.15em 0.2em #ffffff, 0.04em -0.2em 0.3em #ffffff, 0.05em -0.25em 0.4em #ffffff, 0.06em -0.2em 0.9em #ffffff, 0.1em -0.1em 1em #ffffff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0m 0em #ffffff;
+}
+} 
+@keyframes fr-animation-glow-cm-def { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ffffff, 0.01em -0.05em 0.15em #ffffff, 0.02em -0.15em 0.2em #ffffff, 0.04em -0.2em 0.3em #ffffff, 0.05em -0.25em 0.4em #ffffff, 0.06em -0.2em 0.9em #ffffff, 0.1em -0.1em 1em #ffffff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0m 0em #ffffff;
+}
+} 
+ .animation-glow-cm-def 
+ {
+  -moz-animation: fr-animation-glow-cm-def 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-def 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-def 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-def {
+  color: #ffffff;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-def {
+  -webkit-animation: fr-animation-glow-cm-def 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-def 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-def 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-def {
+  -webkit-animation: fr-animation-glow-cm-def 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-def 1s 1 alternate;
+  animation: fr-animation-glow-cm-def 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-def {
+  -webkit-animation: fr-animation-glow-cm-def 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-def 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-def 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-operator { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ffffff, 0.01em -0.05em 0.15em #ffffff, 0.02em -0.15em 0.2em #ffffff, 0.04em -0.2em 0.3em #ffffff, 0.05em -0.25em 0.4em #ffffff, 0.06em -0.2em 0.9em #ffffff, 0.1em -0.1em 1em #ffffff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0m 0em #ffffff;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-operator { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ffffff, 0.01em -0.05em 0.15em #ffffff, 0.02em -0.15em 0.2em #ffffff, 0.04em -0.2em 0.3em #ffffff, 0.05em -0.25em 0.4em #ffffff, 0.06em -0.2em 0.9em #ffffff, 0.1em -0.1em 1em #ffffff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0m 0em #ffffff;
+}
+} 
+@keyframes fr-animation-glow-cm-operator { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ffffff, 0.01em -0.05em 0.15em #ffffff, 0.02em -0.15em 0.2em #ffffff, 0.04em -0.2em 0.3em #ffffff, 0.05em -0.25em 0.4em #ffffff, 0.06em -0.2em 0.9em #ffffff, 0.1em -0.1em 1em #ffffff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0em 0em #ffffff, 0em 0m 0em #ffffff;
+}
+} 
+ .animation-glow-cm-operator 
+ {
+  -moz-animation: fr-animation-glow-cm-operator 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-operator 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-operator 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-operator {
+  color: #ffffff;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-operator {
+  -webkit-animation: fr-animation-glow-cm-operator 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-operator 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-operator 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-operator {
+  -webkit-animation: fr-animation-glow-cm-operator 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-operator 1s 1 alternate;
+  animation: fr-animation-glow-cm-operator 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-operator {
+  -webkit-animation: fr-animation-glow-cm-operator 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-operator 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-operator 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-variable { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffcc, 0.01em -0.02em 0.15em #a0ff33, 0.01em -0.05em 0.15em #bbff33, 0.02em -0.15em 0.2em #e4ff33, 0.04em -0.2em 0.3em #ffff33, 0.05em -0.25em 0.4em #ffff33, 0.06em -0.2em 0.9em #ffe433, 0.1em -0.1em 1em #ffd633;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffcc, 0 0em 0em #a0ff33, 0em 0em 0em #bbff33, 0em 0em 0em #ffff33, 0em 0em 0em #ffff33, 0em 0em 0em #e4ff33, 0em 0em 0em #ffe433, 0em 0m 0em #ffd633;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-variable { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffcc, 0.01em -0.02em 0.15em #a0ff33, 0.01em -0.05em 0.15em #bbff33, 0.02em -0.15em 0.2em #e4ff33, 0.04em -0.2em 0.3em #ffff33, 0.05em -0.25em 0.4em #ffff33, 0.06em -0.2em 0.9em #ffe433, 0.1em -0.1em 1em #ffd633;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffcc, 0 0em 0em #a0ff33, 0em 0em 0em #bbff33, 0em 0em 0em #ffff33, 0em 0em 0em #ffff33, 0em 0em 0em #e4ff33, 0em 0em 0em #ffe433, 0em 0m 0em #ffd633;
+}
+} 
+@keyframes fr-animation-glow-cm-variable { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffcc, 0.01em -0.02em 0.15em #a0ff33, 0.01em -0.05em 0.15em #bbff33, 0.02em -0.15em 0.2em #e4ff33, 0.04em -0.2em 0.3em #ffff33, 0.05em -0.25em 0.4em #ffff33, 0.06em -0.2em 0.9em #ffe433, 0.1em -0.1em 1em #ffd633;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffcc, 0 0em 0em #a0ff33, 0em 0em 0em #bbff33, 0em 0em 0em #ffff33, 0em 0em 0em #ffff33, 0em 0em 0em #e4ff33, 0em 0em 0em #ffe433, 0em 0m 0em #ffd633;
+}
+} 
+ .animation-glow-cm-variable 
+ {
+  -moz-animation: fr-animation-glow-cm-variable 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-variable 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-variable 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-variable {
+  color: #ffff33;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-variable {
+  -webkit-animation: fr-animation-glow-cm-variable 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-variable 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-variable 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-variable {
+  -webkit-animation: fr-animation-glow-cm-variable 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-variable 1s 1 alternate;
+  animation: fr-animation-glow-cm-variable 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-variable {
+  -webkit-animation: fr-animation-glow-cm-variable 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-variable 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-variable 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-variable-2 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fafac0, 0.01em -0.02em 0.15em #97ee33, 0.01em -0.05em 0.15em #b0ee33, 0.02em -0.15em 0.2em #d5ee33, 0.04em -0.2em 0.3em #eeee33, 0.05em -0.25em 0.4em #eeee33, 0.06em -0.2em 0.9em #eed533, 0.1em -0.1em 1em #eec933;
+}
+100% {
+  text-shadow: 0 0em 0em #fafac0, 0 0em 0em #97ee33, 0em 0em 0em #b0ee33, 0em 0em 0em #eeee33, 0em 0em 0em #eeee33, 0em 0em 0em #d5ee33, 0em 0em 0em #eed533, 0em 0m 0em #eec933;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-variable-2 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fafac0, 0.01em -0.02em 0.15em #97ee33, 0.01em -0.05em 0.15em #b0ee33, 0.02em -0.15em 0.2em #d5ee33, 0.04em -0.2em 0.3em #eeee33, 0.05em -0.25em 0.4em #eeee33, 0.06em -0.2em 0.9em #eed533, 0.1em -0.1em 1em #eec933;
+}
+100% {
+  text-shadow: 0 0em 0em #fafac0, 0 0em 0em #97ee33, 0em 0em 0em #b0ee33, 0em 0em 0em #eeee33, 0em 0em 0em #eeee33, 0em 0em 0em #d5ee33, 0em 0em 0em #eed533, 0em 0m 0em #eec933;
+}
+} 
+@keyframes fr-animation-glow-cm-variable-2 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fafac0, 0.01em -0.02em 0.15em #97ee33, 0.01em -0.05em 0.15em #b0ee33, 0.02em -0.15em 0.2em #d5ee33, 0.04em -0.2em 0.3em #eeee33, 0.05em -0.25em 0.4em #eeee33, 0.06em -0.2em 0.9em #eed533, 0.1em -0.1em 1em #eec933;
+}
+100% {
+  text-shadow: 0 0em 0em #fafac0, 0 0em 0em #97ee33, 0em 0em 0em #b0ee33, 0em 0em 0em #eeee33, 0em 0em 0em #eeee33, 0em 0em 0em #d5ee33, 0em 0em 0em #eed533, 0em 0m 0em #eec933;
+}
+} 
+ .animation-glow-cm-variable-2 
+ {
+  -moz-animation: fr-animation-glow-cm-variable-2 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-variable-2 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-variable-2 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-variable-2 {
+  color: #eeee33;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-variable-2 {
+  -webkit-animation: fr-animation-glow-cm-variable-2 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-variable-2 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-variable-2 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-variable-2 {
+  -webkit-animation: fr-animation-glow-cm-variable-2 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-variable-2 1s 1 alternate;
+  animation: fr-animation-glow-cm-variable-2 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-variable-2 {
+  -webkit-animation: fr-animation-glow-cm-variable-2 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-variable-2 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-variable-2 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-variable-3 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #f3f3b6, 0.01em -0.02em 0.15em #8edd33, 0.01em -0.05em 0.15em #a4dd33, 0.02em -0.15em 0.2em #c6dd33, 0.04em -0.2em 0.3em #dddd33, 0.05em -0.25em 0.4em #dddd33, 0.06em -0.2em 0.9em #ddc633, 0.1em -0.1em 1em #ddbb33;
+}
+100% {
+  text-shadow: 0 0em 0em #f3f3b6, 0 0em 0em #8edd33, 0em 0em 0em #a4dd33, 0em 0em 0em #dddd33, 0em 0em 0em #dddd33, 0em 0em 0em #c6dd33, 0em 0em 0em #ddc633, 0em 0m 0em #ddbb33;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-variable-3 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #f3f3b6, 0.01em -0.02em 0.15em #8edd33, 0.01em -0.05em 0.15em #a4dd33, 0.02em -0.15em 0.2em #c6dd33, 0.04em -0.2em 0.3em #dddd33, 0.05em -0.25em 0.4em #dddd33, 0.06em -0.2em 0.9em #ddc633, 0.1em -0.1em 1em #ddbb33;
+}
+100% {
+  text-shadow: 0 0em 0em #f3f3b6, 0 0em 0em #8edd33, 0em 0em 0em #a4dd33, 0em 0em 0em #dddd33, 0em 0em 0em #dddd33, 0em 0em 0em #c6dd33, 0em 0em 0em #ddc633, 0em 0m 0em #ddbb33;
+}
+} 
+@keyframes fr-animation-glow-cm-variable-3 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #f3f3b6, 0.01em -0.02em 0.15em #8edd33, 0.01em -0.05em 0.15em #a4dd33, 0.02em -0.15em 0.2em #c6dd33, 0.04em -0.2em 0.3em #dddd33, 0.05em -0.25em 0.4em #dddd33, 0.06em -0.2em 0.9em #ddc633, 0.1em -0.1em 1em #ddbb33;
+}
+100% {
+  text-shadow: 0 0em 0em #f3f3b6, 0 0em 0em #8edd33, 0em 0em 0em #a4dd33, 0em 0em 0em #dddd33, 0em 0em 0em #dddd33, 0em 0em 0em #c6dd33, 0em 0em 0em #ddc633, 0em 0m 0em #ddbb33;
+}
+} 
+ .animation-glow-cm-variable-3 
+ {
+  -moz-animation: fr-animation-glow-cm-variable-3 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-variable-3 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-variable-3 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-variable-3 {
+  color: #dddd33;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-variable-3 {
+  -webkit-animation: fr-animation-glow-cm-variable-3 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-variable-3 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-variable-3 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-variable-3 {
+  -webkit-animation: fr-animation-glow-cm-variable-3 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-variable-3 1s 1 alternate;
+  animation: fr-animation-glow-cm-variable-3 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-variable-3 {
+  -webkit-animation: fr-animation-glow-cm-variable-3 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-variable-3 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-variable-3 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-comment { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #e5e5e5, 0.01em -0.02em 0.15em #999999, 0.01em -0.05em 0.15em #999999, 0.02em -0.15em 0.2em #999999, 0.04em -0.2em 0.3em #999999, 0.05em -0.25em 0.4em #999999, 0.06em -0.2em 0.9em #999999, 0.1em -0.1em 1em #999999;
+}
+100% {
+  text-shadow: 0 0em 0em #e5e5e5, 0 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0m 0em #999999;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-comment { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #e5e5e5, 0.01em -0.02em 0.15em #999999, 0.01em -0.05em 0.15em #999999, 0.02em -0.15em 0.2em #999999, 0.04em -0.2em 0.3em #999999, 0.05em -0.25em 0.4em #999999, 0.06em -0.2em 0.9em #999999, 0.1em -0.1em 1em #999999;
+}
+100% {
+  text-shadow: 0 0em 0em #e5e5e5, 0 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0m 0em #999999;
+}
+} 
+@keyframes fr-animation-glow-cm-comment { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #e5e5e5, 0.01em -0.02em 0.15em #999999, 0.01em -0.05em 0.15em #999999, 0.02em -0.15em 0.2em #999999, 0.04em -0.2em 0.3em #999999, 0.05em -0.25em 0.4em #999999, 0.06em -0.2em 0.9em #999999, 0.1em -0.1em 1em #999999;
+}
+100% {
+  text-shadow: 0 0em 0em #e5e5e5, 0 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0em 0em #999999, 0em 0m 0em #999999;
+}
+} 
+ .animation-glow-cm-comment 
+ {
+  -moz-animation: fr-animation-glow-cm-comment 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-comment 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-comment 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-comment {
+  color: #999999;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-comment {
+  -webkit-animation: fr-animation-glow-cm-comment 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-comment 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-comment 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-comment {
+  -webkit-animation: fr-animation-glow-cm-comment 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-comment 1s 1 alternate;
+  animation: fr-animation-glow-cm-comment 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-comment {
+  -webkit-animation: fr-animation-glow-cm-comment 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-comment 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-comment 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-string { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #d7ff88, 0.01em -0.02em 0.15em #30ee00, 0.01em -0.05em 0.15em #50ee00, 0.02em -0.15em 0.2em #7fee00, 0.04em -0.2em 0.3em #9fee00, 0.05em -0.25em 0.4em #9fee00, 0.06em -0.2em 0.9em #bfee00, 0.1em -0.1em 1em #cfee00;
+}
+100% {
+  text-shadow: 0 0em 0em #d7ff88, 0 0em 0em #30ee00, 0em 0em 0em #50ee00, 0em 0em 0em #9fee00, 0em 0em 0em #9fee00, 0em 0em 0em #7fee00, 0em 0em 0em #bfee00, 0em 0m 0em #cfee00;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-string { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #d7ff88, 0.01em -0.02em 0.15em #30ee00, 0.01em -0.05em 0.15em #50ee00, 0.02em -0.15em 0.2em #7fee00, 0.04em -0.2em 0.3em #9fee00, 0.05em -0.25em 0.4em #9fee00, 0.06em -0.2em 0.9em #bfee00, 0.1em -0.1em 1em #cfee00;
+}
+100% {
+  text-shadow: 0 0em 0em #d7ff88, 0 0em 0em #30ee00, 0em 0em 0em #50ee00, 0em 0em 0em #9fee00, 0em 0em 0em #9fee00, 0em 0em 0em #7fee00, 0em 0em 0em #bfee00, 0em 0m 0em #cfee00;
+}
+} 
+@keyframes fr-animation-glow-cm-string { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #d7ff88, 0.01em -0.02em 0.15em #30ee00, 0.01em -0.05em 0.15em #50ee00, 0.02em -0.15em 0.2em #7fee00, 0.04em -0.2em 0.3em #9fee00, 0.05em -0.25em 0.4em #9fee00, 0.06em -0.2em 0.9em #bfee00, 0.1em -0.1em 1em #cfee00;
+}
+100% {
+  text-shadow: 0 0em 0em #d7ff88, 0 0em 0em #30ee00, 0em 0em 0em #50ee00, 0em 0em 0em #9fee00, 0em 0em 0em #9fee00, 0em 0em 0em #7fee00, 0em 0em 0em #bfee00, 0em 0m 0em #cfee00;
+}
+} 
+ .animation-glow-cm-string 
+ {
+  -moz-animation: fr-animation-glow-cm-string 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-string 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-string 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-string {
+  color: #9fee00;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-string {
+  -webkit-animation: fr-animation-glow-cm-string 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-string 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-string 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-string {
+  -webkit-animation: fr-animation-glow-cm-string 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-string 1s 1 alternate;
+  animation: fr-animation-glow-cm-string 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-string {
+  -webkit-animation: fr-animation-glow-cm-string 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-string 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-string 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-string-2 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #d7ff88, 0.01em -0.02em 0.15em #30ee00, 0.01em -0.05em 0.15em #50ee00, 0.02em -0.15em 0.2em #7fee00, 0.04em -0.2em 0.3em #9fee00, 0.05em -0.25em 0.4em #9fee00, 0.06em -0.2em 0.9em #bfee00, 0.1em -0.1em 1em #cfee00;
+}
+100% {
+  text-shadow: 0 0em 0em #d7ff88, 0 0em 0em #30ee00, 0em 0em 0em #50ee00, 0em 0em 0em #9fee00, 0em 0em 0em #9fee00, 0em 0em 0em #7fee00, 0em 0em 0em #bfee00, 0em 0m 0em #cfee00;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-string-2 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #d7ff88, 0.01em -0.02em 0.15em #30ee00, 0.01em -0.05em 0.15em #50ee00, 0.02em -0.15em 0.2em #7fee00, 0.04em -0.2em 0.3em #9fee00, 0.05em -0.25em 0.4em #9fee00, 0.06em -0.2em 0.9em #bfee00, 0.1em -0.1em 1em #cfee00;
+}
+100% {
+  text-shadow: 0 0em 0em #d7ff88, 0 0em 0em #30ee00, 0em 0em 0em #50ee00, 0em 0em 0em #9fee00, 0em 0em 0em #9fee00, 0em 0em 0em #7fee00, 0em 0em 0em #bfee00, 0em 0m 0em #cfee00;
+}
+} 
+@keyframes fr-animation-glow-cm-string-2 { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #d7ff88, 0.01em -0.02em 0.15em #30ee00, 0.01em -0.05em 0.15em #50ee00, 0.02em -0.15em 0.2em #7fee00, 0.04em -0.2em 0.3em #9fee00, 0.05em -0.25em 0.4em #9fee00, 0.06em -0.2em 0.9em #bfee00, 0.1em -0.1em 1em #cfee00;
+}
+100% {
+  text-shadow: 0 0em 0em #d7ff88, 0 0em 0em #30ee00, 0em 0em 0em #50ee00, 0em 0em 0em #9fee00, 0em 0em 0em #9fee00, 0em 0em 0em #7fee00, 0em 0em 0em #bfee00, 0em 0m 0em #cfee00;
+}
+} 
+ .animation-glow-cm-string-2 
+ {
+  -moz-animation: fr-animation-glow-cm-string-2 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-string-2 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-string-2 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-string-2 {
+  color: #9fee00;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-string-2 {
+  -webkit-animation: fr-animation-glow-cm-string-2 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-string-2 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-string-2 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-string-2 {
+  -webkit-animation: fr-animation-glow-cm-string-2 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-string-2 1s 1 alternate;
+  animation: fr-animation-glow-cm-string-2 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-string-2 {
+  -webkit-animation: fr-animation-glow-cm-string-2 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-string-2 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-string-2 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-meta { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffff99, 0.01em -0.02em 0.15em #88ff00, 0.01em -0.05em 0.15em #aaff00, 0.02em -0.15em 0.2em #ddff00, 0.04em -0.2em 0.3em #ffff00, 0.05em -0.25em 0.4em #ffff00, 0.06em -0.2em 0.9em #ffdd00, 0.1em -0.1em 1em #ffcc00;
+}
+100% {
+  text-shadow: 0 0em 0em #ffff99, 0 0em 0em #88ff00, 0em 0em 0em #aaff00, 0em 0em 0em #ffff00, 0em 0em 0em #ffff00, 0em 0em 0em #ddff00, 0em 0em 0em #ffdd00, 0em 0m 0em #ffcc00;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-meta { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffff99, 0.01em -0.02em 0.15em #88ff00, 0.01em -0.05em 0.15em #aaff00, 0.02em -0.15em 0.2em #ddff00, 0.04em -0.2em 0.3em #ffff00, 0.05em -0.25em 0.4em #ffff00, 0.06em -0.2em 0.9em #ffdd00, 0.1em -0.1em 1em #ffcc00;
+}
+100% {
+  text-shadow: 0 0em 0em #ffff99, 0 0em 0em #88ff00, 0em 0em 0em #aaff00, 0em 0em 0em #ffff00, 0em 0em 0em #ffff00, 0em 0em 0em #ddff00, 0em 0em 0em #ffdd00, 0em 0m 0em #ffcc00;
+}
+} 
+@keyframes fr-animation-glow-cm-meta { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffff99, 0.01em -0.02em 0.15em #88ff00, 0.01em -0.05em 0.15em #aaff00, 0.02em -0.15em 0.2em #ddff00, 0.04em -0.2em 0.3em #ffff00, 0.05em -0.25em 0.4em #ffff00, 0.06em -0.2em 0.9em #ffdd00, 0.1em -0.1em 1em #ffcc00;
+}
+100% {
+  text-shadow: 0 0em 0em #ffff99, 0 0em 0em #88ff00, 0em 0em 0em #aaff00, 0em 0em 0em #ffff00, 0em 0em 0em #ffff00, 0em 0em 0em #ddff00, 0em 0em 0em #ffdd00, 0em 0m 0em #ffcc00;
+}
+} 
+ .animation-glow-cm-meta 
+ {
+  -moz-animation: fr-animation-glow-cm-meta 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-meta 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-meta 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-meta {
+  color: #ffff00;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-meta {
+  -webkit-animation: fr-animation-glow-cm-meta 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-meta 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-meta 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-meta {
+  -webkit-animation: fr-animation-glow-cm-meta 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-meta 1s 1 alternate;
+  animation: fr-animation-glow-cm-meta 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-meta {
+  -webkit-animation: fr-animation-glow-cm-meta 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-meta 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-meta 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-qualifier { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fffc99, 0.01em -0.02em 0.15em #90ff00, 0.01em -0.05em 0.15em #b2ff00, 0.02em -0.15em 0.2em #e5ff00, 0.04em -0.2em 0.3em #fff700, 0.05em -0.25em 0.4em #fff700, 0.06em -0.2em 0.9em #ffd500, 0.1em -0.1em 1em #ffc400;
+}
+100% {
+  text-shadow: 0 0em 0em #fffc99, 0 0em 0em #90ff00, 0em 0em 0em #b2ff00, 0em 0em 0em #fff700, 0em 0em 0em #fff700, 0em 0em 0em #e5ff00, 0em 0em 0em #ffd500, 0em 0m 0em #ffc400;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-qualifier { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fffc99, 0.01em -0.02em 0.15em #90ff00, 0.01em -0.05em 0.15em #b2ff00, 0.02em -0.15em 0.2em #e5ff00, 0.04em -0.2em 0.3em #fff700, 0.05em -0.25em 0.4em #fff700, 0.06em -0.2em 0.9em #ffd500, 0.1em -0.1em 1em #ffc400;
+}
+100% {
+  text-shadow: 0 0em 0em #fffc99, 0 0em 0em #90ff00, 0em 0em 0em #b2ff00, 0em 0em 0em #fff700, 0em 0em 0em #fff700, 0em 0em 0em #e5ff00, 0em 0em 0em #ffd500, 0em 0m 0em #ffc400;
+}
+} 
+@keyframes fr-animation-glow-cm-qualifier { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fffc99, 0.01em -0.02em 0.15em #90ff00, 0.01em -0.05em 0.15em #b2ff00, 0.02em -0.15em 0.2em #e5ff00, 0.04em -0.2em 0.3em #fff700, 0.05em -0.25em 0.4em #fff700, 0.06em -0.2em 0.9em #ffd500, 0.1em -0.1em 1em #ffc400;
+}
+100% {
+  text-shadow: 0 0em 0em #fffc99, 0 0em 0em #90ff00, 0em 0em 0em #b2ff00, 0em 0em 0em #fff700, 0em 0em 0em #fff700, 0em 0em 0em #e5ff00, 0em 0em 0em #ffd500, 0em 0m 0em #ffc400;
+}
+} 
+ .animation-glow-cm-qualifier 
+ {
+  -moz-animation: fr-animation-glow-cm-qualifier 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-qualifier 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-qualifier 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-qualifier {
+  color: #fff700;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-qualifier {
+  -webkit-animation: fr-animation-glow-cm-qualifier 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-qualifier 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-qualifier 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-qualifier {
+  -webkit-animation: fr-animation-glow-cm-qualifier 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-qualifier 1s 1 alternate;
+  animation: fr-animation-glow-cm-qualifier 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-qualifier {
+  -webkit-animation: fr-animation-glow-cm-qualifier 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-qualifier 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-qualifier 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-builtin { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ebaaff, 0.01em -0.05em 0.15em #e0aaff, 0.02em -0.15em 0.2em #cfaaff, 0.04em -0.2em 0.3em #c3aaff, 0.05em -0.25em 0.4em #c3aaff, 0.06em -0.2em 0.9em #b8aaff, 0.1em -0.1em 1em #b2aaff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ebaaff, 0em 0em 0em #e0aaff, 0em 0em 0em #c3aaff, 0em 0em 0em #c3aaff, 0em 0em 0em #cfaaff, 0em 0em 0em #b8aaff, 0em 0m 0em #b2aaff;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-builtin { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ebaaff, 0.01em -0.05em 0.15em #e0aaff, 0.02em -0.15em 0.2em #cfaaff, 0.04em -0.2em 0.3em #c3aaff, 0.05em -0.25em 0.4em #c3aaff, 0.06em -0.2em 0.9em #b8aaff, 0.1em -0.1em 1em #b2aaff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ebaaff, 0em 0em 0em #e0aaff, 0em 0em 0em #c3aaff, 0em 0em 0em #c3aaff, 0em 0em 0em #cfaaff, 0em 0em 0em #b8aaff, 0em 0m 0em #b2aaff;
+}
+} 
+@keyframes fr-animation-glow-cm-builtin { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffffff, 0.01em -0.02em 0.15em #ebaaff, 0.01em -0.05em 0.15em #e0aaff, 0.02em -0.15em 0.2em #cfaaff, 0.04em -0.2em 0.3em #c3aaff, 0.05em -0.25em 0.4em #c3aaff, 0.06em -0.2em 0.9em #b8aaff, 0.1em -0.1em 1em #b2aaff;
+}
+100% {
+  text-shadow: 0 0em 0em #ffffff, 0 0em 0em #ebaaff, 0em 0em 0em #e0aaff, 0em 0em 0em #c3aaff, 0em 0em 0em #c3aaff, 0em 0em 0em #cfaaff, 0em 0em 0em #b8aaff, 0em 0m 0em #b2aaff;
+}
+} 
+ .animation-glow-cm-builtin 
+ {
+  -moz-animation: fr-animation-glow-cm-builtin 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-builtin 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-builtin 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-builtin {
+  color: #c3aaff;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-builtin {
+  -webkit-animation: fr-animation-glow-cm-builtin 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-builtin 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-builtin 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-builtin {
+  -webkit-animation: fr-animation-glow-cm-builtin 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-builtin 1s 1 alternate;
+  animation: fr-animation-glow-cm-builtin 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-builtin {
+  -webkit-animation: fr-animation-glow-cm-builtin 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-builtin 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-builtin 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-bracket { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #f6f6e6, 0.01em -0.02em 0.15em #a4cc77, 0.01em -0.05em 0.15em #b0cc77, 0.02em -0.15em 0.2em #c1cc77, 0.04em -0.2em 0.3em #cccc77, 0.05em -0.25em 0.4em #cccc77, 0.06em -0.2em 0.9em #ccc177, 0.1em -0.1em 1em #ccbb77;
+}
+100% {
+  text-shadow: 0 0em 0em #f6f6e6, 0 0em 0em #a4cc77, 0em 0em 0em #b0cc77, 0em 0em 0em #cccc77, 0em 0em 0em #cccc77, 0em 0em 0em #c1cc77, 0em 0em 0em #ccc177, 0em 0m 0em #ccbb77;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-bracket { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #f6f6e6, 0.01em -0.02em 0.15em #a4cc77, 0.01em -0.05em 0.15em #b0cc77, 0.02em -0.15em 0.2em #c1cc77, 0.04em -0.2em 0.3em #cccc77, 0.05em -0.25em 0.4em #cccc77, 0.06em -0.2em 0.9em #ccc177, 0.1em -0.1em 1em #ccbb77;
+}
+100% {
+  text-shadow: 0 0em 0em #f6f6e6, 0 0em 0em #a4cc77, 0em 0em 0em #b0cc77, 0em 0em 0em #cccc77, 0em 0em 0em #cccc77, 0em 0em 0em #c1cc77, 0em 0em 0em #ccc177, 0em 0m 0em #ccbb77;
+}
+} 
+@keyframes fr-animation-glow-cm-bracket { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #f6f6e6, 0.01em -0.02em 0.15em #a4cc77, 0.01em -0.05em 0.15em #b0cc77, 0.02em -0.15em 0.2em #c1cc77, 0.04em -0.2em 0.3em #cccc77, 0.05em -0.25em 0.4em #cccc77, 0.06em -0.2em 0.9em #ccc177, 0.1em -0.1em 1em #ccbb77;
+}
+100% {
+  text-shadow: 0 0em 0em #f6f6e6, 0 0em 0em #a4cc77, 0em 0em 0em #b0cc77, 0em 0em 0em #cccc77, 0em 0em 0em #cccc77, 0em 0em 0em #c1cc77, 0em 0em 0em #ccc177, 0em 0m 0em #ccbb77;
+}
+} 
+ .animation-glow-cm-bracket 
+ {
+  -moz-animation: fr-animation-glow-cm-bracket 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-bracket 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-bracket 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-bracket {
+  color: #cccc77;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-bracket {
+  -webkit-animation: fr-animation-glow-cm-bracket 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-bracket 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-bracket 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-bracket {
+  -webkit-animation: fr-animation-glow-cm-bracket 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-bracket 1s 1 alternate;
+  animation: fr-animation-glow-cm-bracket 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-bracket {
+  -webkit-animation: fr-animation-glow-cm-bracket 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-bracket 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-bracket 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-tag { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-tag { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+@keyframes fr-animation-glow-cm-tag { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fff2d9, 0.01em -0.02em 0.15em #e8ff40, 0.01em -0.05em 0.15em #fffd40, 0.02em -0.15em 0.2em #ffd640, 0.04em -0.2em 0.3em #ffbd40, 0.05em -0.25em 0.4em #ffbd40, 0.06em -0.2em 0.9em #ffa440, 0.1em -0.1em 1em #ff9740;
+}
+100% {
+  text-shadow: 0 0em 0em #fff2d9, 0 0em 0em #e8ff40, 0em 0em 0em #fffd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffbd40, 0em 0em 0em #ffd640, 0em 0em 0em #ffa440, 0em 0m 0em #ff9740;
+}
+} 
+ .animation-glow-cm-tag 
+ {
+  -moz-animation: fr-animation-glow-cm-tag 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-tag 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-tag 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-tag {
+  color: #ffbd40;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-tag {
+  -webkit-animation: fr-animation-glow-cm-tag 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-tag 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-tag 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-tag {
+  -webkit-animation: fr-animation-glow-cm-tag 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-tag 1s 1 alternate;
+  animation: fr-animation-glow-cm-tag 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-tag {
+  -webkit-animation: fr-animation-glow-cm-tag 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-tag 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-tag 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-attribute { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fffc99, 0.01em -0.02em 0.15em #90ff00, 0.01em -0.05em 0.15em #b2ff00, 0.02em -0.15em 0.2em #e5ff00, 0.04em -0.2em 0.3em #fff700, 0.05em -0.25em 0.4em #fff700, 0.06em -0.2em 0.9em #ffd500, 0.1em -0.1em 1em #ffc400;
+}
+100% {
+  text-shadow: 0 0em 0em #fffc99, 0 0em 0em #90ff00, 0em 0em 0em #b2ff00, 0em 0em 0em #fff700, 0em 0em 0em #fff700, 0em 0em 0em #e5ff00, 0em 0em 0em #ffd500, 0em 0m 0em #ffc400;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-attribute { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fffc99, 0.01em -0.02em 0.15em #90ff00, 0.01em -0.05em 0.15em #b2ff00, 0.02em -0.15em 0.2em #e5ff00, 0.04em -0.2em 0.3em #fff700, 0.05em -0.25em 0.4em #fff700, 0.06em -0.2em 0.9em #ffd500, 0.1em -0.1em 1em #ffc400;
+}
+100% {
+  text-shadow: 0 0em 0em #fffc99, 0 0em 0em #90ff00, 0em 0em 0em #b2ff00, 0em 0em 0em #fff700, 0em 0em 0em #fff700, 0em 0em 0em #e5ff00, 0em 0em 0em #ffd500, 0em 0m 0em #ffc400;
+}
+} 
+@keyframes fr-animation-glow-cm-attribute { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #fffc99, 0.01em -0.02em 0.15em #90ff00, 0.01em -0.05em 0.15em #b2ff00, 0.02em -0.15em 0.2em #e5ff00, 0.04em -0.2em 0.3em #fff700, 0.05em -0.25em 0.4em #fff700, 0.06em -0.2em 0.9em #ffd500, 0.1em -0.1em 1em #ffc400;
+}
+100% {
+  text-shadow: 0 0em 0em #fffc99, 0 0em 0em #90ff00, 0em 0em 0em #b2ff00, 0em 0em 0em #fff700, 0em 0em 0em #fff700, 0em 0em 0em #e5ff00, 0em 0em 0em #ffd500, 0em 0m 0em #ffc400;
+}
+} 
+ .animation-glow-cm-attribute 
+ {
+  -moz-animation: fr-animation-glow-cm-attribute 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-attribute 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-attribute 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-attribute {
+  color: #fff700;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-attribute {
+  -webkit-animation: fr-animation-glow-cm-attribute 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-attribute 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-attribute 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-attribute {
+  -webkit-animation: fr-animation-glow-cm-attribute 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-attribute 1s 1 alternate;
+  animation: fr-animation-glow-cm-attribute 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-attribute {
+  -webkit-animation: fr-animation-glow-cm-attribute 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-attribute 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-attribute 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-cm-error { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ff9999, 0.01em -0.02em 0.15em #ff7700, 0.01em -0.05em 0.15em #ff5500, 0.02em -0.15em 0.2em #ff2200, 0.04em -0.2em 0.3em #ff0000, 0.05em -0.25em 0.4em #ff0000, 0.06em -0.2em 0.9em #ff0022, 0.1em -0.1em 1em #ff0033;
+}
+100% {
+  text-shadow: 0 0em 0em #ff9999, 0 0em 0em #ff7700, 0em 0em 0em #ff5500, 0em 0em 0em #ff0000, 0em 0em 0em #ff0000, 0em 0em 0em #ff2200, 0em 0em 0em #ff0022, 0em 0m 0em #ff0033;
+}
+} 
+@-webkit-keyframes fr-animation-glow-cm-error { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ff9999, 0.01em -0.02em 0.15em #ff7700, 0.01em -0.05em 0.15em #ff5500, 0.02em -0.15em 0.2em #ff2200, 0.04em -0.2em 0.3em #ff0000, 0.05em -0.25em 0.4em #ff0000, 0.06em -0.2em 0.9em #ff0022, 0.1em -0.1em 1em #ff0033;
+}
+100% {
+  text-shadow: 0 0em 0em #ff9999, 0 0em 0em #ff7700, 0em 0em 0em #ff5500, 0em 0em 0em #ff0000, 0em 0em 0em #ff0000, 0em 0em 0em #ff2200, 0em 0em 0em #ff0022, 0em 0m 0em #ff0033;
+}
+} 
+@keyframes fr-animation-glow-cm-error { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ff9999, 0.01em -0.02em 0.15em #ff7700, 0.01em -0.05em 0.15em #ff5500, 0.02em -0.15em 0.2em #ff2200, 0.04em -0.2em 0.3em #ff0000, 0.05em -0.25em 0.4em #ff0000, 0.06em -0.2em 0.9em #ff0022, 0.1em -0.1em 1em #ff0033;
+}
+100% {
+  text-shadow: 0 0em 0em #ff9999, 0 0em 0em #ff7700, 0em 0em 0em #ff5500, 0em 0em 0em #ff0000, 0em 0em 0em #ff0000, 0em 0em 0em #ff2200, 0em 0em 0em #ff0022, 0em 0m 0em #ff0033;
+}
+} 
+ .animation-glow-cm-error 
+ {
+  -moz-animation: fr-animation-glow-cm-error 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-cm-error 0.8s 1 alternate;
+  animation: fr-animation-glow-cm-error 0.8s 1 alternate;
+}
+.cm-s-mid-school2 span.cm-error {
+  color: #ff0000;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-error {
+  -webkit-animation: fr-animation-glow-cm-error 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-error 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-error 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-inactiveline span.cm-error {
+  -webkit-animation: fr-animation-glow-cm-error 1s 1 alternate;
+  -moz-animation: fr-animation-glow-cm-error 1s 1 alternate;
+  animation: fr-animation-glow-cm-error 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline span.cm-error {
+  -webkit-animation: fr-animation-glow-cm-error 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-cm-error 1s 1 linear alternate;
+  animation: fr-animation-glow-cm-error 1s 1 linear alternate;
+}
+@-moz-keyframes fr-animation-glow-red { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffc999, 0.01em -0.02em 0.15em #ffee00, 0.01em -0.05em 0.15em #ffcc00, 0.02em -0.15em 0.2em #ff9900, 0.04em -0.2em 0.3em #ff7700, 0.05em -0.25em 0.4em #ff7700, 0.06em -0.2em 0.9em #ff5500, 0.1em -0.1em 1em #ff4400;
+}
+100% {
+  text-shadow: 0 0em 0em #ffc999, 0 0em 0em #ffee00, 0em 0em 0em #ffcc00, 0em 0em 0em #ff7700, 0em 0em 0em #ff7700, 0em 0em 0em #ff9900, 0em 0em 0em #ff5500, 0em 0m 0em #ff4400;
+}
+} 
+@-webkit-keyframes fr-animation-glow-red { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffc999, 0.01em -0.02em 0.15em #ffee00, 0.01em -0.05em 0.15em #ffcc00, 0.02em -0.15em 0.2em #ff9900, 0.04em -0.2em 0.3em #ff7700, 0.05em -0.25em 0.4em #ff7700, 0.06em -0.2em 0.9em #ff5500, 0.1em -0.1em 1em #ff4400;
+}
+100% {
+  text-shadow: 0 0em 0em #ffc999, 0 0em 0em #ffee00, 0em 0em 0em #ffcc00, 0em 0em 0em #ff7700, 0em 0em 0em #ff7700, 0em 0em 0em #ff9900, 0em 0em 0em #ff5500, 0em 0m 0em #ff4400;
+}
+} 
+@keyframes fr-animation-glow-red { 
+ 0% {
+  text-shadow: 0 -0.05em 0.2em #ffc999, 0.01em -0.02em 0.15em #ffee00, 0.01em -0.05em 0.15em #ffcc00, 0.02em -0.15em 0.2em #ff9900, 0.04em -0.2em 0.3em #ff7700, 0.05em -0.25em 0.4em #ff7700, 0.06em -0.2em 0.9em #ff5500, 0.1em -0.1em 1em #ff4400;
+}
+100% {
+  text-shadow: 0 0em 0em #ffc999, 0 0em 0em #ffee00, 0em 0em 0em #ffcc00, 0em 0em 0em #ff7700, 0em 0em 0em #ff7700, 0em 0em 0em #ff9900, 0em 0em 0em #ff5500, 0em 0m 0em #ff4400;
+}
+} 
+ .animation-glow-red 
+ {
+  -moz-animation: fr-animation-glow-red 0.8s 1 alternate;
+  -webkit-animation: fr-animation-glow-red 0.8s 1 alternate;
+  animation: fr-animation-glow-red 0.8s 1 alternate;
+}
+@font-face {
+  font-family: pixel;
+  src: url('../../css/PixelMplus12-Regular.ttf') format("truetype");
+}
+.cm-s-mid-school2.CodeMirror {
+  font-family: pixel ! important;
+  line-height: 120% ! important;
+  font-size: 24px;
+  background: #0a001f;
+  color: #f8f8f8;
+}
+.cm-s-mid-school2 .CodeMirror-cursor {
+  border-left: 0.5em solid white ! important;
+}
+.cm-s-mid-school2 .CodeMirror-activeline pre,
+.cm-s-mid-school2 .CodeMirror-measure pre {
+  text-wrap: unrestricted;
+}
+.cm-s-mid-school2 .CodeMirror-activeline pre span,
+.cm-s-mid-school2 .CodeMirror-measure pre span {
+  font-size: 150%;
+  line-height: 100%;
+}
+.cm-s-mid-school2 .CodeMirror-activeline pre span.cm-indent,
+.cm-s-mid-school2 .CodeMirror-measure pre span.cm-indent {
+  font-size: 100%;
+}
+.cm-s-mid-school2 .CodeMirror-activeline span.cm-text,
+.cm-s-mid-school2 .CodeMirror-measure span.cm-text {
+  -webkit-animation: fr-animation-glow-red 1s 1 linear alternate;
+  -moz-animation: fr-animation-glow-red 1s 1 linear alternate;
+  animation: fr-animation-glow-red 1s 1 linear alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline pre span {
+  font-size: 150%;
+  line-height: 100%;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline pre span.cm-indent {
+  font-size: 50%;
+}
+.cm-s-mid-school2 .CodeMirror-selectedline .CodeMirror-selectedtext {
+  -webkit-animation: fr-animation-glow-red 1s 1 alternate;
+  -moz-animation: fr-animation-glow-red 1s 1 alternate;
+  animation: fr-animation-glow-red 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-appeared .CodeMirror-selectedtext {
+  -webkit-animation: fr-animation-glow-red 1s 1 alternate;
+  -moz-animation: fr-animation-glow-red 1s 1 alternate;
+  animation: fr-animation-glow-red 1s 1 alternate;
+}
+.cm-s-mid-school2 .CodeMirror-selected {
+  background: #27007A ! important;
+}
+.cm-s-mid-school2 .CodeMirror-gutters {
+  background: #0a001f;
+  border-right: 1px solid #aaa;
+}
+.cm-s-mid-school2 .CodeMirror-linenumber {
+  color: #ccc;
+}
+.cm-s-mid-school2 .CodeMirror-activeline-background {
+  background: #27282E ! important;
+}
+.cm-s-mid-school2 .CodeMirror-matchingbracket {
+  outline: 1px solid grey;
+  color: white !important;
+}

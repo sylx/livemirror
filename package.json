@@ -1,0 +1,17 @@
+{
+    "name": "livemirror",
+    "version": "1.0.0",
+    "description": "Live coding system for some editors",
+    "main": "server.js",
+    "scripts": {
+        "server": "node server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": [
+        "express",
+        "websocket",
+        "log4js"
+    ],
+    "author": "sylx",
+    "license": "ISC"
+}
